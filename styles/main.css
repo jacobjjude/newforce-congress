@@ -1,0 +1,17 @@
+.mainLayout__section{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    border: 2px dotted crimson;
+    background-color: aliceblue
+}
+
+.mainLayout__section--list {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 1em;
+    align-items: center;
+    list-style: none;
+    background-color: aqua;
+}
